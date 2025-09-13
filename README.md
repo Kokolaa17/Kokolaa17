@@ -1,7 +1,7 @@
 <h1> Greetings 👋 </h1>
-I am <b>Giorgi</b> — a Frontend Developer from Georgia 🇬🇪, skilled in Angular and actively advancing my knowledge in backend technologies to move toward full-stack development.
+I am <b>Giorgi</b> — a Frontend Developer from Georgia, skilled in Angular and actively advancing my knowledge in backend technologies to move toward full-stack development.
 
-<h2>About Me</h2>=
+<h2>About Me</h2>
 
 With a strong foundation in modern web development, I focus on creating responsive, high-performance, and user-friendly applications. My approach combines clean design principles, efficient and maintainable code, and API integrations to bring ideas to life. I enjoy collaborating on projects where usability, performance, and scalability come together, and I’m always eager to learn new technologies that help me refine my craft and build better solutions.
 
