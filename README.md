@@ -1,22 +1,24 @@
-<h1> Hi there 👋 </h1>
-I'm Giorgi, a Frontend Developer from Georgia 🇬🇪, specializing in Angular and expanding my expertise into backend technologies.
+<h1> Greetings 👋 </h1>
+I am <b>Giorgi</b> — a Frontend Developer from Georgia 🇬🇪, skilled in Angular and actively advancing my knowledge in backend technologies to move toward full-stack development.
 
 <h2>About Me</h2>=
 
-I’m a motivated and creative Frontend Developer, passionate about building user-friendly applications with Angular and modern web technologies. With hands-on experience delivering responsive, high-performance interfaces, I enjoy transforming ideas into functional and visually compelling solutions. My work includes API integrations, performance optimization, and crafting seamless user experiences across devices.
+With a strong foundation in modern web development, I focus on creating responsive, high-performance, and user-friendly applications. My approach combines clean design principles, efficient and maintainable code, and API integrations to bring ideas to life. I enjoy collaborating on projects where usability, performance, and scalability come together, and I’m always eager to learn new technologies that help me refine my craft and build better solutions.
 
 <h2>Skills & Technologies</h2>
 
-⚫ Frontend: Angular, HTML5, CSS3, TypeScript, JavaScript, Responsive Design
+⚫ Frontend: Angular, HTML5, CSS3, SCSS, JavaScript, TypeScript, Responsive Design
 
 ⚫ APIs: RESTful integration, working with mock and public APIs for prototyping
 
-⚫ Tooling: Git, GitHub, Agile workflows
+⚫ Tooling: Git, GitHub.
 
-⚫ Collaboration: Strong communicator, team-oriented, and quick to learn
+⚫ Personal Qualities: Responsible, Self-Disciplined, Detail-Oriented, Adaptable
+
+⚫ Collaboration:  Strong communicator, Team Oriented, Quick Learner
 
 ⚫ Learning: Currently expanding into Backend development
 
-<h2>Let’s Connect</h2>
+<h2> Let’s Connect</h2>
 
-I’m open to new opportunities and collaborations. If you’re looking for a frontend specialist who can deliver polished solutions and quickly adapt to new technologies, let’s connect!
+Passionate about frontend development, I am seeking new opportunities to collaborate and grow. As a frontend specialist, I deliver refined solutions and adapt quickly to new technologies.
